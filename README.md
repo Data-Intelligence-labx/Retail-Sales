@@ -51,3 +51,19 @@ The analysis emphasizes clean data modeling, reproducible analytics, and busines
 4) Quantity Sold
 
 5) Invalid Transaction Flags
+
+## Pages
+**Executive Overview**
+![Executive Overview](Pages/Executive%20Overview.png)
+
+**Trend Analysis**
+![Trend Analysis](Pages/Trend%20Analysis.png)
+
+**Product Performance**
+![Product Performance](Pages/Product%20Performance.png)
+
+**Customer Analysis**
+![Customer Analysis](Pages/Customer%20Analysis.png)
+
+**Geographic Analysis**
+![Geographic Analysis](Pages/Geographic%20Analysis.png)
