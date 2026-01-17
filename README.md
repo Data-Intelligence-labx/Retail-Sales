@@ -67,3 +67,5 @@ The analysis emphasizes clean data modeling, reproducible analytics, and busines
 
 **Geographic Analysis**
 ![Geographic Analysis](Pages/Geographic%20Analysis.png)
+
+**Web View:**  https://app.powerbi.com/view?r=eyJrIjoiMzMzYmQwYzYtNTNhMC00ZWFiLTkzOWUtMmMzYjcxNDFiNzU0IiwidCI6IjkxMjY1NTVlLWYzNzYtNGU3MS1iOGUwLTBlNDY2NjFmYTVhZiJ9
