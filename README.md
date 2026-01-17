@@ -53,19 +53,19 @@ The analysis emphasizes clean data modeling, reproducible analytics, and busines
 5) Invalid Transaction Flags
 
 ## Pages
-**Executive Overview**
+### **Executive Overview**
 ![Executive Overview](Pages/Executive%20Overview.png)
 
-**Trend Analysis**
+### **Trend Analysis**
 ![Trend Analysis](Pages/Trend%20Analysis.png)
 
-**Product Performance**
+### **Product Performance**
 ![Product Performance](Pages/Product%20Performance.png)
 
-**Customer Analysis**
+### **Customer Analysis**
 ![Customer Analysis](Pages/Customer%20Analysis.png)
 
-**Geographic Analysis**
+### **Geographic Analysis**
 ![Geographic Analysis](Pages/Geographic%20Analysis.png)
 
 **Web View:**  https://app.powerbi.com/view?r=eyJrIjoiMzMzYmQwYzYtNTNhMC00ZWFiLTkzOWUtMmMzYjcxNDFiNzU0IiwidCI6IjkxMjY1NTVlLWYzNzYtNGU3MS1iOGUwLTBlNDY2NjFmYTVhZiJ9
